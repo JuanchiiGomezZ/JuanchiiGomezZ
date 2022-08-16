@@ -33,4 +33,4 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 
 ### 📌 Contact me at:
 - e-mail: Juanmanuelgomezomil@gmail.com
-- <a href="https://www.linkedin.com/in/juan-manue-gomez-omil/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+- <a href="https://www.linkedin.com/in/juan-manuel-gomez-omil/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
