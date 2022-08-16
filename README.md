@@ -32,5 +32,5 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 - Watch movies and series🍿
 
 ### 📌 Contact me at:
-- e-mail: mateo.bertello@gmail.com
-- <a href="https://www.linkedin.com/in/mateo-bertello/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+- e-mail: Juanmanuelgomezomil@gmail.com
+- <a href="https://www.linkedin.com/in/juan-manue-gomez-omil/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
