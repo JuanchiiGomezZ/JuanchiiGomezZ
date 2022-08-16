@@ -15,7 +15,7 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 </p>
 
 ### 💻 I'm always working on:
-- Improving my skills
+- Improving my skills and learning n
 
 ### 🌱 I'm currently learning:
 - React Js
@@ -24,6 +24,7 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 - React Native
 - TypeScript
 - SQL
+- NodeJS
 
 ### 😃 Hobbies:
 - Spending quality time with my family💕​
