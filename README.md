@@ -26,11 +26,6 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 - SQL
 - NodeJS
 
-### 😃 Hobbies:
-- Spending quality time with my family💕​
-- Playing Video Games🎮​
-- Watch movies and series🍿
-
 ### 📌 Contact me at:
 - e-mail: Juanmanuelgomezomil@gmail.com
 - <a href="https://www.linkedin.com/in/juan-manuel-gomez-omil/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
