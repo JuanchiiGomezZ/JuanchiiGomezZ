@@ -18,7 +18,7 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 - Improving my skills and learning n
 
 ### 🌱 I'm currently learning:
-- React Native
+- BACKEND ON JAVA
 
 ### 📚 I want to learn:
 - Redux
