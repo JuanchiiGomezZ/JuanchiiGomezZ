@@ -1,6 +1,13 @@
 # Hi 👋 I'm Juan Manuel Gomez Omil!
 
-I am a Frontend Developer from Argentina. I am always researching, learning and perfecting my knowledge. I am looking for my first formal work experience to grow as a professional.
+As a Frontend Developer from Argentina, I am constantly researching, learning, and perfecting my skills in the field. As a professional in constant evolution, I am looking for my first formal work experience to grow as a developer.
+
+My background in web development, combined with my curiosity for new technologies, has enabled me to acquire skills in programming languages such as HTML, CSS, JavaScript, and frameworks like React and React Native
+. Additionally, I have knowledge of agile methodologies and experience working with version control tools like Git.
+
+As a developer, I have the ability to design and create responsive, optimized, and accessible user interfaces while always considering the needs and expectations of the end-user. My ability to work in a team, my passion for continuous learning, and my proactive and collaborative attitude are some of the values that I consider essential in my daily work.
+
+I am confident that my passion and dedication for web development, my commitment to quality, and my ability to work in a team will allow me to add value to any project I am involved in. Therefore, I am excited about the opportunity to apply my skills in a professional setting and collaborate with other developers to achieve exceptional results.
 
 ## Skill set:
 
