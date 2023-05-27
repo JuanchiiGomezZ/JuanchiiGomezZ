@@ -25,10 +25,9 @@ I am confident that my passion and dedication for web development, my commitment
 - Improving my skills and learning n
 
 ### 🌱 I'm currently learning:
-- BACKEND ON JAVA
+- Backend on JAVA
 
 ### 📚 I want to learn:
-- Redux
 - NextJS
 - TypeScript
 - SQL
