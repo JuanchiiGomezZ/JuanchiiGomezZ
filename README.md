@@ -34,5 +34,5 @@ I am confident that my passion and dedication for web development, my commitment
 - NodeJS
 
 ### 📌 Contact me at:
-- e-mail: Juanmanuelgomezomil@gmail.com
+- email: Juanmanuelgomezomil@gmail.com
 - <a href="https://www.linkedin.com/in/juan-manuel-gomez-omil/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
